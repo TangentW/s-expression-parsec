@@ -1,6 +1,6 @@
 # Parser Combinator ❤️ S-expression 
 
-
+![repl](https://github.com/TangentW/s-expression-parsec/blob/7df81a2085a77973cfbe5837cfdaf438e353d355/img/repl.gif)
 
 基于 `Parser Combinator` 的 `S-expression` 解释器。
 
